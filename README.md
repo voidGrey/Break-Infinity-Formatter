@@ -3,5 +3,3 @@
 
 ![sampleCode](https://github.com/voidGrey/BreakInfinityFormatter/assets/48152442/da5753af-0b0b-4336-982a-be0a6c770a5b)
 
-
-<meta name="google-site-verification" content="ICVSPanuiDTtVh_nES5ROQv_agbfdeeoGEr8G2Qr48s" />
